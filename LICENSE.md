@@ -4,7 +4,7 @@
 > [!NOTE]
 > You can find the English version of this lincense. Go look for it yourself.
 
-# Licença
+# Minha Licença Supimpa v1.0
 ## Termos principais
 Essa licença cobre a todos os arquivos deste repositório ("ARQUIVOS") com excessão a uma letra Y que se encontre como a última letra deste arquivo ("IPSLON"). E "EU" (ou "MIM") se refere ao autor original destes ARQUIVOS.  
 Utilizar os ARQUIVOS inclue salvá-los, copiá-los,  utilizá-los de outras formas, fazê-los copiáveis, salváveis e/ou utilizáveis de outras formas e muito mais!  
@@ -38,7 +38,7 @@ Cada parte desta licença é valida onde proibida, a não ser que EU mude de ide
   
   
   
-# License
+# My Cool License v1.0
 ## Main terms
 This license covers all files in this repository ("FILES") with the exception of a letter Y that may be found as the last letter of this file ("WYE"). And "I" (or "ME") refers to the original author of these FILES.  
 Using the FILES includes saving them, copying them, using them in other ways, making them copiable, saveable and/or usable in other ways and much more!  
@@ -64,7 +64,13 @@ These FILES are not offered. However, if they were, they would be offered as is 
 ## Changes and interpretations
 This license may be changed at any time, for any reason and in any way.  
 If the interpretation of the rules is ambiguous or conflicting, the interpretation must be made in the Portuguese version of this license. If ambiguity, conflict, dispute or error remains, the interpretation must be made in another version in Portuguese that I determine for this purpose.  
-Each part of this license is valid where prohibited unless I change my mind about it.  
+Each part of this license is valid where prohibited unless I change my mind about it.
   
   
+  
+  ---
+  
+
+  
+© Rafael Scarpa Fernandes, 2024  
 Y
